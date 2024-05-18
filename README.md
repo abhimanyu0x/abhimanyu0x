@@ -1,16 +1,54 @@
-### Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**abhimanyu0x/abhimanyu0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/abhimanyu0x?label=Follow&style=social)](https://github.com/abhimanyu0x)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/abhimanyuvermaa/)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello! I'm **Abhimanyu Verma**, a passionate **Software Developer** specializing in **Backend Development**. I thrive on solving complex problems and building innovative solutions that make a significant impact.
+
+- 🌱 **Currently learning:** Node.js, Express.js, NGINX, Serverless, AWS
+- 💬 **Ask me about:** C++, Problem Solving, Competitive Programming
+- 📫 **How to reach me:** abhimanyuvermaa17@gmail.com
+
+## My Skills
+
+### Programming Languages
+- **C++**
+- **JavaScript**
+- **SQL**
+
+### Frameworks and Libraries
+- **Node.js**
+- **Express.js**
+
+### Tools and Platforms
+- **AWS**
+- **Git**
+- **GitHub**
+
+### Databases
+- **MySQL**
+- **PostgreSQL**
+- **MongoDB**
+
+### CS Fundamentals
+- **Object-Oriented Programming**
+- **Data Structures and Algorithms**
+- **Database Management**
+- **Operating Systems**
+- **Algorithm Design**
+
+## Coding Profiles
+
+- [![LeetCode](https://img.shields.io/badge/-LeetCode-orange)](https://leetcode.com/ashu0x)
+- [![CodeForces](https://img.shields.io/badge/-CodeForces-blue)](https://codeforces.com/profile/abhimanyuvermas)
+
+## Connect with Me
+
+Let's connect and collaborate! You can find me on:
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/abhimanyuvermaa/)
+- [![Twitter](https://img.shields.io/twitter/follow/abhimanyuvermas?style=social)](https://twitter.com/abhimanyuvermas)
+
+Feel free to reach out if you have any questions or just want to chat about tech!
