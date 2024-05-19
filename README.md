@@ -29,6 +29,6 @@ Hello! I'm **Abhimanyu Verma**, a passionate **Software Developer** specializing
 Let's connect and collaborate! You can find me on:
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/abhimanyuvermaa/)
-- [![Twitter](https://img.shields.io/twitter/follow/abhimanyuvermas?style=social)](https://twitter.com/abhimanyuvermas)
+- [![Twitter](https://img.shields.io/twitter/follow/abhimanyu0x?style=social)](https://x.com/abhimanyu0x)
 
 Feel free to reach out if you have any questions or just want to chat about tech!
