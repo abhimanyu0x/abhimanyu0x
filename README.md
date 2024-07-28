@@ -23,6 +23,7 @@ Hello! I'm **Abhimanyu Verma**, a passionate **Software Developer** specializing
 
 - [![LeetCode](https://img.shields.io/badge/-LeetCode-orange)](https://leetcode.com/ashu0x)
 - [![CodeForces](https://img.shields.io/badge/-CodeForces-blue)](https://codeforces.com/profile/abhimanyuvermas)
+- [![CodingPortfolio](https://img.shields.io/badge/-CodingPortfolio-green)](https://codolio.com/profile/ashu0x)
 
 ## Connect with Me
 
