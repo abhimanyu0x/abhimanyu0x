@@ -21,15 +21,27 @@ Hello! I'm **Abhimanyu Verma**, a passionate **Software Developer** specializing
   
 ## Coding Profiles
 
-- [![LeetCode](https://img.shields.io/badge/-LeetCode-orange)](https://leetcode.com/ashu0x)
-- [![CodeForces](https://img.shields.io/badge/-CodeForces-blue)](https://codeforces.com/profile/abhimanyuvermas)
-- [![CodingPortfolio](https://img.shields.io/badge/-CodingPortfolio-green)](https://codolio.com/profile/ashu0x)
+<p align="left">
+  <a href="https://leetcode.com/ashu0x">
+    <img src="https://img.shields.io/badge/-LeetCode-orange" alt="LeetCode">
+  </a>
+  <a href="https://codeforces.com/profile/abhimanyuvermas">
+    <img src="https://img.shields.io/badge/-CodeForces-blue" alt="CodeForces">
+  </a>
+  <a href="https://codolio.com/profile/ashu0x">
+    <img src="https://img.shields.io/badge/-CodingPortfolio-green" alt="CodingPortfolio">
+  </a>
+</p>
 
 ## Connect with Me
 
-Let's connect and collaborate! You can find me on:
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/abhimanyuvermaa/)
-- [![Twitter](https://img.shields.io/twitter/follow/abhimanyu0x?style=social)](https://x.com/abhimanyu0x)
+<p align="left">
+  <a href="https://www.linkedin.com/in/abhimanyuvermaa/">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30">
+  </a>
+  <a href="https://x.com/abhimanyu0x">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="30" height="30">
+  </a>
+</p>
 
 Feel free to reach out if you have any questions or just want to chat about tech!
