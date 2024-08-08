@@ -16,7 +16,7 @@ Hello! I'm **Abhimanyu Verma**, a passionate **Software Developer** specializing
 - **CS Fundamentals:** Object-Oriented Programming, Data Structures and Algorithms, Database Management, Operating Systems
 - **Frameworks and Libraries:** Node.js, Express.js, NGINX, Serverless
 - **Familiar with:** Python, Solidity, SQL, PostgreSQL
-- **Tools and Platforms:** AWS, Git, GitHub
+- **Tools and Platforms:** Git, GitHub, AWS
 - **Databases:** MongoDB
   
 ## Coding Profiles
