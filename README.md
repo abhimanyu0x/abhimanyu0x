@@ -7,18 +7,18 @@
 
 Hello! I'm **Abhimanyu Verma**, a passionate **Software Developer** specializing in **Backend Development**. I thrive on solving complex problems and building innovative solutions that make a significant impact.
 
-- 🌱 **Currently learning:** Node.js, Express.js, NGINX, Serverless, AWS
 - 💬 **Ask me about:** C++, Problem Solving, Competitive Programming
 - 📫 **How to reach me:** abhimanyuvermaa17@gmail.com
 
 ## My Skills
 
-- **Programming Languages:** C++, JavaScript, Python, SQL
-- **Frameworks and Libraries:** Node.js, Express.js
+- **Programming Languages:** C++, JavaScript
+- **CS Fundamentals:** Object-Oriented Programming, Data Structures and Algorithms, Database Management, Operating Systems
+- **Frameworks and Libraries:** Node.js, Express.js, NGINX, Serverless
+- **Familiar with:** Python, Solidity, SQL, PostgreSQL
 - **Tools and Platforms:** AWS, Git, GitHub
-- **Databases:** MySQL, MongoDB
-- **CS Fundamentals:** Object-Oriented Programming, Data Structures and Algorithms, Database Management, Operating Systems, Algorithm Design
-
+- **Databases:** MongoDB
+  
 ## Coding Profiles
 
 - [![LeetCode](https://img.shields.io/badge/-LeetCode-orange)](https://leetcode.com/ashu0x)
