@@ -1,7 +1,6 @@
 # Welcome to My GitHub Profile!
 
 [![GitHub followers](https://img.shields.io/github/followers/abhimanyu0x?label=Follow&style=social)](https://github.com/abhimanyu0x)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/abhimanyuvermaa/)
 
 ## About Me
 
@@ -22,14 +21,14 @@ Hello! I'm **Abhimanyu Verma**, a passionate **Software Developer** specializing
 ## Coding Profiles
 
 <p align="left">
-  <a href="https://leetcode.com/ashu0x">
-    <img src="https://img.shields.io/badge/-LeetCode-orange" alt="LeetCode">
-  </a>
   <a href="https://codeforces.com/profile/abhimanyuvermas">
-    <img src="https://img.shields.io/badge/-CodeForces-blue" alt="CodeForces">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-3521352-2944796.png?f=webp&w=256" alt="CodeForces" width="30" height="30">
+  </a>
+  <a href="https://leetcode.com/ashu0x">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3628885-3030025.png?f=webp&w=256" alt="LeetCode" width="30" height="30">
   </a>
   <a href="https://codolio.com/profile/ashu0x">
-    <img src="https://img.shields.io/badge/-CodingPortfolio-green" alt="CodingPortfolio">
+    <img src="https://visualpharm.com/assets/515/Code-595b40b65ba036ed117d3e2b.svg" alt="Coding Portfolio" width="30" height="30">
   </a>
 </p>
 
