@@ -17,29 +17,29 @@ Hello! I'm **Abhimanyu Verma**, a passionate **Software Developer** specializing
 - **Familiar with:** Python, Solidity, SQL, PostgreSQL
 - **Tools and Platforms:** Git, GitHub, AWS
 - **Databases:** MongoDB
-  
+
 ## Coding Profiles
 
 <p align="left">
-  <a href="https://codeforces.com/profile/abhimanyuvermas">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-3521352-2944796.png?f=webp&w=256" alt="CodeForces" width="30" height="30">
+  <a href="https://codeforces.com/profile/abhimanyuvermas" style="margin-right: 10px;">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-3521352-2944796.png?f=webp&w=256" alt="CodeForces" width="30" height="30" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
   </a>
-  <a href="https://leetcode.com/ashu0x">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3628885-3030025.png?f=webp&w=256" alt="LeetCode" width="30" height="30">
+  <a href="https://leetcode.com/ashu0x" style="margin-right: 10px;">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3628885-3030025.png?f=webp&w=256" alt="LeetCode" width="30" height="30" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
   </a>
   <a href="https://codolio.com/profile/ashu0x">
-    <img src="https://visualpharm.com/assets/515/Code-595b40b65ba036ed117d3e2b.svg" alt="Coding Portfolio" width="30" height="30">
+    <img src="https://visualpharm.com/assets/515/Code-595b40b65ba036ed117d3e2b.svg" alt="Coding Portfolio" width="30" height="30" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
   </a>
 </p>
 
 ## Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/abhimanyuvermaa/">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30">
+  <a href="https://www.linkedin.com/in/abhimanyuvermaa/" style="margin-right: 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
   </a>
   <a href="https://x.com/abhimanyu0x">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="30" height="30">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="30" height="30" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
   </a>
 </p>
 
