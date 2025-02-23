@@ -11,12 +11,12 @@ Hello! I'm **Abhimanyu Verma**, a passionate **Software Developer** specializing
 
 ## My Skills
 
-- **Programming Languages:** C++, JavaScript
+- **Programming Languages:** C++, Java, Python, JavaScript
 - **CS Fundamentals:** Object-Oriented Programming, Data Structures and Algorithms, Database Management, Operating Systems
-- **Frameworks and Libraries:** Node.js, Express.js, NGINX, Serverless
+- **Frameworks and Libraries:** Spring Boot, Node.js, Express.js
 - **Familiar with:** Python, Solidity, SQL, PostgreSQL
 - **Tools and Platforms:** Git, GitHub, AWS
-- **Databases:** MongoDB
+- **Databases:** MySQL, Oracle, MongoDB
 
 ## Coding Profiles
 
