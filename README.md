@@ -12,7 +12,7 @@ Hello! I'm **Abhimanyu Verma**, a passionate **Software Engineer** specializing 
 ## My Skills
 
 - **Programming Languages:** C++, Java, Python, JavaScript
-- **CS Fundamentals:** Object-Oriented Programming, Data Structures and Algorithms, Database Management, Operating Systems
+- **CS Fundamentals:** Object-Oriented Programming, Data Structures & Algorithms, Database Management, Operating Systems
 - **Frameworks and Libraries:** Spring Boot, Spring Batch, Spring AI, Data Processing, ETL, Node.js, Express.js
 - **Tools and Platforms:** Git, GitHub, Postman, Jenkins, Docker, AWS, Kubernetes
 - **Databases:** MySQL, Oracle, MongoDB
