@@ -23,9 +23,6 @@ Hello! I'm **Abhimanyu Verma**, a passionate **Software Engineer** specializing 
   <a href="https://www.linkedin.com/in/abhimanyuvermaa/" style="margin-right: 10px;">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
   </a>
-  <a href="https://x.com/abhimanyu0x">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="30" height="30" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
-  </a>
 </p>
 
 Feel free to reach out if you have any questions or just want to chat about tech!
